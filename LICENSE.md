@@ -1,6 +1,3 @@
-Here's the LICENSE file formatted in Markdown for your Git repository:
-
-```markdown
 # Insanity AI Labs Public Repository License Agreement
 
 **Version 1.0**
@@ -69,4 +66,3 @@ By downloading, installing, copying, or otherwise using the Software, you acknow
 **Contact Information:**
 Email: info@insanity-systems.net  
 Main Contact for Code Management and Questions: Employee ID 17749867 (This information will be updated per repository)
-```
